@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am A Programmer (by choice and Engineer by chance), An Author (The Way to Core of Java) and more coming soon...
+I am A Programmer (by choice and Engineer by chance), An Author (Book titled as "The Way to Core of Java") and more coming soon...
 
 <!--
 **gprathour/gprathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
