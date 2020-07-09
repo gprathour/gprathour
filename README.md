@@ -1,6 +1,22 @@
-### Hi there 👋
+# Hello World!! 👋
 
-I am A Programmer (by choice and Engineer by chance), An Author (Book titled as "The Way to Core of Java") and more coming soon...
+I am A Programmer (by choice and Engineer by chance), An Author (Book titled as "The Way to Core of Java") and more about me might be coming soon...
+
+Just starting here to explore and trying to contribute (if I could anything meaningful).
+
+I am into Java, Android, React Native, Node.js, React.js etc.
+
+If you would like to connect with me via social networks also then,
+
+* [Twitter][1]
+* [Facebook][2]
+* [Instagram][3]
+
+[1]:https://twitter.com/gprathour
+[2]:https://www.facebook.com/gprathour/
+[3]:https://www.instagram.com/gprathour/
+
+Till then, Happy Coding. 😄
 
 <!--
 **gprathour/gprathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
