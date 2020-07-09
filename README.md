@@ -2,6 +2,10 @@
 
 I am A Programmer (by choice and Engineer by chance), An Author (Book titled as "The Way to Core of Java") and more about me might be coming soon...
 
+The very first quote that I could think of, and I liked is,
+
+**"Coding is not only for software development, it's a passion."**
+
 Just starting here to explore and trying to contribute (if I could anything meaningful).
 
 I am into Java, Android, React Native, Node.js, React.js etc.
