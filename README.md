@@ -31,10 +31,10 @@
 ---
 
 ### 🛠 Tech Stack  
-**Mobile:** React Native, iOS (SwiftUI), Android (Java, Kotlin, Jetpack Compose)  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, Firebase, Supabase, MongoDB, PostgreSQL  
-**Other:** TypeScript, Stripe, AWS, Google Cloud, Docker  
+- **Mobile:** React Native, iOS (SwiftUI), Android (Java, Kotlin, Jetpack Compose)  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, Firebase, Supabase, MongoDB, PostgreSQL  
+- **Other:** TypeScript, Stripe, AWS, Google Cloud, Docker  
 
 ---
 
